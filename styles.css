@@ -1,6 +1,55 @@
-body {
+/* styles.css */
 
+/* General body styling */
+body {
     margin: 0;
-    background-color: gray;
-    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50; /* Change to a green background */
+    color: white;              /* White text color */
+    padding: 10px 0;          /* Top and bottom padding */
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.top-bar h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+nav a {
+    color: #fff;        /* Link color set to white */
+    text-decoration: none;
+    margin-left: 20px; /* Space between links */
+    font-size: 1em;
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333; /* Dark background for footer */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
