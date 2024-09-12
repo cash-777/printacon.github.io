@@ -41,17 +41,3 @@ nav a:hover {
 
 /* Main content styling */
 main {
-    padding: 20px;
-    background-color: #5e5c64;     /* Light gray background for the main content */
-}
-
-/* Footer styling */
-footer {
-    background-color: #5e5c64;         /* Dark gray background */
-    color: #5e5c64;                    /* White text color */
-    text-align: center;
-    padding: 1px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
