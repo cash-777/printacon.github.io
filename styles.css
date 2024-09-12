@@ -10,7 +10,7 @@ body {
 /* Header styling */
 header {
     background-color: rgb(4, 4, 241); /* Blue background */
-    color: rgb(255, 255, 255);       /* White text color */
+    color: rgb(0, 0, 0);       /* Black text color */
     padding: 10px 0;                 /* Top and bottom padding */
 }
 
@@ -20,7 +20,7 @@ header {
     align-items: center;
     max-width: 1500px;
     margin: 0 auto;                  /* Center the header */
-    padding: 0 20px;
+    padding: 0 50px;
 }
 
 .top-bar h1 {
@@ -42,7 +42,7 @@ nav a:hover {
 /* Main content styling */
 main {
     padding: 20px;
-    background-color: #f4f4f4;      /* Light gray background for the main content */
+    background-color: #424242;      /* Light gray background for the main content */
 }
 
 /* Footer styling */
