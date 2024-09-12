@@ -42,13 +42,13 @@ nav a:hover {
 /* Main content styling */
 main {
     padding: 20px;
-    background-color: rgb(64, 64, 64);      /* Light gray background for the main content */
+    background-color: #5e5c64;     /* Light gray background for the main content */
 }
 
 /* Footer styling */
 footer {
-    background-color: #333;         /* Dark gray background */
-    color: #fff;                    /* White text color */
+    background-color: #5e5c64;         /* Dark gray background */
+    color: #5e5c64;                    /* White text color */
     text-align: center;
     padding: 1px 0;
     position: fixed;
