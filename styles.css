@@ -42,7 +42,7 @@ nav a:hover {
 /* Main content styling */
 main {
     padding: 20px;
-    background-color: #424242;      /* Light gray background for the main content */
+    background-color: rgb(0,0,0);      /* Light gray background for the main content */
 }
 
 /* Footer styling */
