@@ -31,7 +31,7 @@ header {
 nav a {
     color: #fff;                     /* White link color */
     text-decoration: none;
-    margin-left: 20px;              /* Space between links */
+    margin-left: 1px;              /* Space between links */
     font-size: 1em;
 }
 
@@ -42,7 +42,7 @@ nav a:hover {
 /* Main content styling */
 main {
     padding: 20px;
-    background-color: rgb(0,0,0);      /* Light gray background for the main content */
+    background-color: rgb(64, 64, 64);      /* Light gray background for the main content */
 }
 
 /* Footer styling */
@@ -50,7 +50,7 @@ footer {
     background-color: #333;         /* Dark gray background */
     color: #fff;                    /* White text color */
     text-align: center;
-    padding: 10px 0;
+    padding: 1px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
